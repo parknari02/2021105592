@@ -6,7 +6,7 @@ int main() {
 	while (i < 10) {
 		int j = 1;
 		while (j < 10) {
-			cout << i << "x" << j << "=" << i * j << endl;
+			cout << i << "*" << j << "=" << i * j << endl;
 			j++;
 			
 		}
